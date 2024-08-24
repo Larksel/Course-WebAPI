@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\ReserveiAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E03258-2032-4510-AAF9-DB47D2AA3F14}|ReserveiAPI.csproj|c:\\users\\aluno\\downloads\\course-webapi\\reserveiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E03258-2032-4510-AAF9-DB47D2AA3F14}|ReserveiAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Migrations\\20240824124540_Database_v.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240824124540_Database_v.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E03258-2032-4510-AAF9-DB47D2AA3F14}|ReserveiAPI.csproj|c:\\users\\aluno\\downloads\\course-webapi\\reserveiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38E03258-2032-4510-AAF9-DB47D2AA3F14}|ReserveiAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E03258-2032-4510-AAF9-DB47D2AA3F14}|ReserveiAPI.csproj|c:\\users\\aluno\\downloads\\course-webapi\\reserveiapi\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E03258-2032-4510-AAF9-DB47D2AA3F14}|ReserveiAPI.csproj|solutionrelative:contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E03258-2032-4510-AAF9-DB47D2AA3F14}|ReserveiAPI.csproj|c:\\users\\aluno\\downloads\\course-webapi\\reserveiapi\\contexts\\builders\\userbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E03258-2032-4510-AAF9-DB47D2AA3F14}|ReserveiAPI.csproj|solutionrelative:contexts\\builders\\userbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E03258-2032-4510-AAF9-DB47D2AA3F14}|ReserveiAPI.csproj|c:\\users\\aluno\\downloads\\course-webapi\\reserveiapi\\objects\\models\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E03258-2032-4510-AAF9-DB47D2AA3F14}|ReserveiAPI.csproj|solutionrelative:objects\\models\\entities\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240824124540_Database_v.1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Migrations\\20240824124540_Database_v.1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240824124540_Database_v.1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Migrations\\20240824124540_Database_v.1.cs",
+              "RelativeToolTip": "Migrations\\20240824124540_Database_v.1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:45:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:41:38.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T12:36:10.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:32:09.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Contexts\\Builders\\UserBuilder.cs",
+              "RelativeDocumentMoniker": "Contexts\\Builders\\UserBuilder.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Contexts\\Builders\\UserBuilder.cs",
+              "RelativeToolTip": "Contexts\\Builders\\UserBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:22:43.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Objects\\Models\\Entities\\UserModel.cs",
+              "RelativeDocumentMoniker": "Objects\\Models\\Entities\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Course-WebAPI\\ReserveiAPI\\Objects\\Models\\Entities\\UserModel.cs",
+              "RelativeToolTip": "Objects\\Models\\Entities\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:56:37.121Z",
+              "EditorCaption": ""
             }
           ]
         }
