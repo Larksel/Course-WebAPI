@@ -1,0 +1,6 @@
+@ReserveiAPI_HostAddress = http://localhost:5010
+
+GET {{ReserveiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
