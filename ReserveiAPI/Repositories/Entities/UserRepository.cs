@@ -3,7 +3,7 @@ using ReserveiAPI.Contexts;
 using ReserveiAPI.Objects.Models.Entities;
 using ReserveiAPI.Repositories.Interfaces;
 
-namespace ReserveiAPI.Repositories
+namespace ReserveiAPI.Repositories.Entities
 {
     public class UserRepository : IUserRepository
     {
