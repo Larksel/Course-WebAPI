@@ -46,7 +46,7 @@ namespace ReserveiAPI.Services.Entities
         {
             var userModel = await _userRepository.Login(login);
 
-            if (userModel != null) userModel.PasswordUser = "";
+            if (userModel is not null) userModel.PasswordUser = "";
             return _mapper.Map<UserDTO>(userModel);
         }
 
